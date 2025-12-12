@@ -1,7 +1,7 @@
 ```mermaid
 flowchart LR
     subgraph L1[Layer 1: Fundamentals]
-        LFCA[LFCA<br>Linux Foundation Certified IT Associate✅]
+        LFCA[LFCA<br>Linux Foundation Certified IT Associate ✅ ]
         LFCS[LFCS<br>Linux Foundation Certified SysAdmin]
     end
 
