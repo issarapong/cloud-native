@@ -1,3 +1,4 @@
+```mermaid
 flowchart LR
     subgraph L1[Layer 1: Fundamentals]
         LFCA[LFCA<br>Linux Foundation Certified IT Associate]
@@ -59,3 +60,4 @@ flowchart LR
     CNPA --> CNPE
     CAPA --> CNPE
     CKS --> CNPE
+```
